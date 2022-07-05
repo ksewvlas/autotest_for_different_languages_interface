@@ -1,2 +1,2 @@
 # autotest_for_different_languages_interface
-task from autotesting course
+Task from auto testing course
